@@ -1,0 +1,41 @@
+{
+    "Name": "Red Panda Bazaar - THAI",
+    "Author": "DiaMondCH",
+    "Version": "1.0.0",
+    "Description": "Thai language for Red Panda Bazaar 1.0.7",
+    "MinimumApiVersion": "4.3.2",
+    "UniqueID": "DiaMondCH.RedPandaBazaarTHAI",
+    "UpdateKeys": [ "Nexus:37816" ],
+    "ContentPackFor": {
+        "UniqueID": "Lilaoliu.RedPandaBazaar",
+        "MinimumApiVersion": "1.0.7"
+    },
+    "Dependencies": [
+        {
+            "UniqueID": "SMAPI.ConsoleCommands",
+            "MinimumVersion": "4.0.0",
+            "IsRequired": true
+        },
+        {
+            "UniqueID": "Pathoschild.ContentPatcher",
+            "MinimumVersion": "2.8.0",
+            "IsRequired": true
+        },
+        {
+            "UniqueID": "WhaleK233.RedPandaBazaarCode",
+            "MinimumVersion": "1.0.7",
+            "IsRequired": true
+        },
+        {
+            "UniqueID": "ELL.StardewValleyTHAI",
+            "MinimumVersion": "2.5.3",
+            "IsRequired": true
+        },
+        {
+            "UniqueID": "ELL.ThaiFontAdjuster",
+            "MinimumVersion": "1.0.2",
+            "IsRequired": true
+        }
+    ]
+
+}
