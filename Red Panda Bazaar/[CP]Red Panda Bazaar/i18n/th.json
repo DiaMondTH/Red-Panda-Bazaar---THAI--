@@ -784,7 +784,7 @@
     "ChenXiaoMing.GiftReaction.Birthday.Like": "คุณจำวันเกิดฉันได้ด้วยหรอ? แล้วยังเอาของขวัญมาให้อีกด้วย? ใจดีมากเลย ขอบคุณนะ! $1",
     "ChenXiaoMing.GiftReaction.Birthday.Neutral": "อืม... ของขวัญวันเกิดจากคุณหรอ? ก็ดีนะ ฉันว่า ก็โอเค $26",
     "ChenXiaoMing.GiftReaction.Birthday.Dislike": "เดี๋ยว นี่คือของขวัญวันเกิดหรอ? ดูไม่น่าจะใช่เลยนะ $27",
-    "ChenXiaoMing.GiftReaction.Birthday.Hate": "นิ... นี่คืออะไร? $5#$b#เซอร์ไพรส์จากคุณอย่างงั้นหรอ? ก็แปลกใจอยู่นะ ที่อยู่ๆ คุณก็เอาสิ่งนี้มาให้ฉันทำไมน่ะ $8",
+    "ChenXiaoMing.GiftReaction.Birthday.Hate": "นิ-นี่คืออะไร? $5#$b#เซอร์ไพรส์จากคุณอย่างงั้นหรอ? ก็แปลกใจอยู่นะ ที่อยู่ๆ คุณก็เอาสิ่งนี้มาให้ฉันทำไมน่ะ $8",
     "ShiFuShan.GiftTastes.love": "สิ่งนี้ดูดีจริงๆ $1",
     "ShiFuShan.GiftTastes.like": "ฉันจะรับมันเอาไว้นะ ขอบคุณ",
     "ShiFuShan.GiftTastes.dislike": "สิ่งนี้ควรจะเป็นของขวัญเหรอ? ฉันไม่คิดว่านี่จะนับเป็นของขวัญได้นะ",
@@ -1079,6 +1079,8 @@
     "LiQingFeng.Fri.6h": "Friday, Friday, feeling lively!$1#$e#You mean the traveling merchant near the Cindersap Forest? I don't go there...#$b#The scenery is nice, but it's so far, and walking all that way feels exhausting...$1",
     "LiQingFeng.Sat.6h": "Got any plans this Saturday?$e#Maybe I could make some milk tea for you?$1#$b#If it's made with milk, it's healthy, right? I think so...$3",
     "LiQingFeng.Sun.6h": "I'm so sleepy... Do you feel like chatting?$2#$e#You should've said so earlier! Talking about this wakes me right up.#$e#Wait, you noticed I didn't wear makeup today and still think I'm cute? You've got a good eye.$2",
+
+
     "LiQingFeng.Mon.8h": "Take me on, I'll be gone~$1#$b#Uh, I guess I started singing to myself again.$3#$e#Sorry about that. I just got so caught up in the moment.$1",
     "LiQingFeng.Tue.8h": "How's it going today? Do you have any animals on your farm?#$b#I love bunnies! Someday, I'd love to have a whole group of them.$1#$e#See you later, bye!$7",
     "LiQingFeng.Wed.8h": "You're asking why I always look sleepy?$3#$b#It's because I like listening to music late at night. What kind of music do you enjoy?#$e#It matters, of course! Listening to music keeps me up, so I end up going to bed really late.$2#$e#I know it's not a great habit, but I just can't help it...$2",
@@ -1125,6 +1127,8 @@
     "LiQingFeng.summer.Fri.6h": "Friday already, so exciting! $1#$b#Wait, did I say this last time? I can't remember. Haha! $7#$e#Oh, okay, I guess I did. $3",
     "LiQingFeng.summer.Sat.6h": "How's your Saturday? #$b#Me? I've been kind of lazy this summer. $1#$e#See you tomorrow? Sure, why not. $3",
     "LiQingFeng.summer.Sun.6h": "How am I today? Pretty cute, don't you think? $7#$e#How was your week? Is the farm doing okay?",
+
+
     "LiQingFeng.summer.Mon.8h": "Monday already? I think I stayed up too late again last night. $2#$b#But as soon as you show up, I feel energized. Hehe, how's your day? $1",
     "LiQingFeng.summer.Tue.8h": "Today? It's going great, really! $3#$e#Do you have any movies you want to watch? Maybe you could come over sometime, and we can watch one together. #$b#What kind of movies do you like? Just... not horror, okay? $3",
     "LiQingFeng.summer.Wed.8h": "This summer is so boring, everything is just unbearably hot. $2#$e#But when you're here, it's different. You always bring something fun to talk about.",
@@ -1171,6 +1175,8 @@
     "LiQingFeng.fall.Fri.6h": "It's Friday! I'm sure it's Friday! You can't trick me. $7#$e#Do you watch the TV? I mostly watch that chef hat guy's show. $e#Oh, and yes, I do everything 100%, haha, just kidding. $1",
     "LiQingFeng.fall.Sat.6h": "How's your day going? $e#With all those animals, your farm must be super busy! I love little bunnies! $1#$e#Winter's almost here, have you made sure they're all warm enough? $3",
     "LiQingFeng.fall.Sun.6h": "How's today? I feel super energetic, like I could watch a bunch of movies! $1#$e#Of course, I'm not as tired now that I've met you. $e#I used to nap a lot, but now I just sleep when I feel like it. $17",
+
+
     "LiQingFeng.fall.Mon.8h": "Hey, you're here again! How's your day? Did you bring something cool to show me?#$e#If I had my own farm, I'd totally plant a giant field of fairy roses in the fall. $1#$b#And I'd use all the milk to make milk tea. I mean, who doesn't love milk tea?",
     "LiQingFeng.fall.Tue.8h": "Books? No, I'm not much of a reader. Not every girl's into that, you know. $8#$e#But music? Oh, I'm all about it. Rock music? Absolutely, punk rock all the way! $7#$e#You said there's a three-person band in town that's pretty good? Maybe we can go see them together sometime.",
     "LiQingFeng.fall.Wed.8h": "Fall is so pretty, isn't it? Everything's just so colorful. $1#$b#But it's getting chilly, so don't go catching a cold, okay? $7#$e#I don't get sick that much, but I bet the town doctor's making a fortune this time of year. $3#$e#I mean, paying for medicine is just how it goes, right?",
@@ -1201,15 +1207,13 @@
     "LiQingFeng.winter.Fri.2h": "คุณชอบทำอาหารมั้ย? #$b#ในตู้เย็นบ้านเรามีวัตถุดิบเยอะเลย แต่ว่า... ไม่มีปลาเลยสักตัวน่ะ $7#$e#พูดถึงปลาแล้ว เราก็ไม่เคยเห็นใครที่คลั่งไคล้ปลา ไปมากกว่าลุงที่อยู่ทางเหนือคนนั้นเลย $3",
     "LiQingFeng.winter.Sat.2h": "อากาศหนาวแบบนี้ เหมาะกับการแต่งชุดฤดูหนาวมากเลยนะ $7#$b#ปกติคุณเก็บเสื้อผ้าเป็นระเบียบเตรียมซักบ้างหรือเปล่าน่ะ? ของเรานี่มีเสื้อผ้าที่กองอยู่ชั้นบนบ้านเต็มเลย $3",
     "LiQingFeng.winter.Sun.2h": "ในที่สุดก็ถึงวันอาทิตย์สักที ฤดูหนาวนี้ดูยาวนานมากเป็นพิเศษเลยนะ $3#$b#ดีที่ในบ้านเราไม่ค่อยหนาวสักเท่าไหร่ อาจจะเป็นเพราะว่าสิ่งประดิษฐ์สุดเจ๋งอย่าง พื้นทำความร้อนก็เป็นได้น่ะ $7#$b#เอาล่ะ งั้นไว้เจอกันใหม่ในสัปดาห์หน้านะ บ๊ายบาย! $7",
-
-
-    "LiQingFeng.winter.Mon.4h": "Hey, you're back again, @! #$b#Anything new and exciting this winter? $7#$e#Oh, that sounds pretty cool!",
-    "LiQingFeng.winter.Tue.4h": "You look just as sleepy as I feel! $1#$e#Or is winter keeping you busy with so much work? #$b#How about I make you some hot milk tea to cheer you up when I get the chance? $7",
-    "LiQingFeng.winter.Wed.4h": "It's already Wednesday? Winter naps make time fly by, don't they? $18#$b#I heard there's no snow in the desert out west during winter. It must be so warm there! $17",
-    "LiQingFeng.winter.Thu.4h": "How's the farm doing? Not much to grow in winter, right? $7#$e#And the animals? I heard they need heaters to stay warm in winter. $9#$b#If you need anything, come find me! I'll cheer you on... mentally, at least. Hehe. $7",
-    "LiQingFeng.winter.Fri.4h": "Feeling cold lately? You look like you're about to disappear into your coat! $3#$e#So, are you heading to the saloon tonight? $17#$b#Me? I don't really like going there, but I guess it's not a bad place to warm up. $18",
-    "LiQingFeng.winter.Sat.4h": "Oh, hey there! #$b#What's up today? Are you here to hang out with me? $17#$e#Alright then, see you tomorrow, @? $7",
-    "LiQingFeng.winter.Sun.4h": "Just stopping by to say hi? Of course, anytime! Are you busy this weekend? #$b#Do you have farm work to do in winter, or are you just cozy at home like me? $17",
+    "LiQingFeng.winter.Mon.4h": "อ้าว คุณมาหาอีกแล้วหรอ? @ #$b#ฤดูหนาวนี้คุณมีเรื่องอะไรที่น่าตื่นเต้น เล่าให้เราฟังบ้างหรือเปล่า? $7#$e#โอ้ว นั่นฟังดูดีเลยนะ",
+    "LiQingFeng.winter.Tue.4h": "ทำไมคุณดูง่วงๆ เหมือนกับเราเลยล่ะ? $1#$e#หรือว่าในฤดูหนาวนี้คุณมีงานเยอะหรอ? #$b#ไว้ถ้าเรามีเวลาจะทำชานมอุ่นๆ ให้คุณดื่มสักแก้วแก้ง่วงเอามั้ย? $7",
+    "LiQingFeng.winter.Wed.4h": "วันนี้วันพุธแล้วหรอ? นอนหลับในฤดูหนาวนี่ทำให้เวลาผ่านไปเร็วจริงๆ $18#$b#เราได้ยินมาว่า ฤดูหนาวที่ทะเลทรายจะไม่มีหิมะตกลงมาเลย นั่นคงจะอุ่นน่าดูนะ $17",
+    "LiQingFeng.winter.Thu.4h": "ฟาร์มคุณเป็นยังไงบ้าง? ฤดูหนาวนี้ไม่ค่อยมีพืชผลให้ปลูกเลยใช่มั้ย? $7#$e#แล้ว... พวกน้องสัตว์ของคุณล่ะ? ได้ยินมาว่าพวกน้องๆ ต้องใช้ฮีตเตอร์เพื่อให้ตัวเองอบอุ่นในฤดูหนาวด้วยนะ $9#$b#ถ้าคุณต้องการให้เราช่วยอะไรก็มาหาได้นะ เราจะคอยให้กำลังใจคุณอยู่เสมอเอง แฮ่ๆ $7",
+    "LiQingFeng.winter.Fri.4h": "หนาวหรือเปล่า? ดูเหมือนคุณจะมุดเข้าไปอยู่ในเสื้อผ้าทั้งตัวแล้วนะ $3#$e#แล้ว... วันนี้คุณจะไปซาลูนหรือเปล่า? $17#$b#เราหรอ? จริงๆ เราก็ไม่ค่อยชอบไปที่นั่นหรอก แต่ถ้าไปแค่เพื่อให้ร่างกายอบอุ่นก็ไม่แย่นะ $18",
+    "LiQingFeng.winter.Sat.4h": "หืม? โอ้ สวัสดีจ้า! #$b#วันนี้... มีธุระอะไรหรอ? หรือว่ามาหาเราเล่นเฉยๆ น่ะ? $17#$e#เอาล่ะ งั้นก็ไว้เจอกันใหม่พรุ่งนี้นะ? @? $7",
+    "LiQingFeng.winter.Sun.4h": "หืม? มาทักทายกันหน่อยหรอ? ได้สิ ว่าไง! วันหยุดสุดสัปดาห์นี้คุณยุ่งหรือเปล่า? #$b#มีงานอะไรที่คุณต้องทำที่ฟาร์มบ้างมั้ย? หรือว่าอยู่บ้านเฉยๆ เหมือนกับเราน่ะ? $17",
 
 
     "LiQingFeng.winter.Mon.6h": "Hmm... $3#$b#Oh, I was just thinking about a scene from a movie. #$b#Do you have a favorite movie scene? $1",
@@ -1219,6 +1223,8 @@
     "LiQingFeng.winter.Fri.6h": "Friday, Friday! Feeling full of energy! $1#$b#Wanna have a snowball fight? $7#$b#Just kidding. I'm not actually that good at it. $1",
     "LiQingFeng.winter.Sat.6h": "Nothing beats a warm drink on a day like this. #$b#Hot milk, hot coffee... and of course, hot milk tea! $1",
     "LiQingFeng.winter.Sun.6h": "Sundays in winter just scream 'nap time,' don't they? $2#$b#But now that you're here to chat, I don't feel so sleepy anymore. $1",
+
+    
     "LiQingFeng.winter.Mon.8h": "Take me on, I'll be gone~ $1#$b#Oops, I started singing again, didn't I? $3#$b#Sorry about that! I just got lost in the moment. $1",
     "LiQingFeng.winter.Tue.8h": "Do you think bunnies would look extra cute bundled up for winter? #$b#I really want to see it! How about we try it on your farm? $7",
     "LiQingFeng.winter.Wed.8h": "Do you think the water's frozen over in this weather? $3#$b#I don't fish, so it's not like I'd know. #$b#But if you go ice fishing, make sure to stay warm, okay? $2",
@@ -1525,7 +1531,6 @@
     "LiQingFeng.Engagement.2": "อ๊ะ! คุณมาทำอะไรที่นี่น่ะ ที่รัก? $12#$b#ทะ ทำไมใจร้อนจังล่ะ? เฮ้อ บางทีคุณก็เกินไปหน่อยนะ! $16",
     "ChenXiaoMing.Engagement.1": "ทำไมรีบแบบนี้ล่ะ? คุณคิดว่าการวางแผนงานแต่งมันง่ายหรอ? $7#$e#กลับไปรอการอัปเดตเถอะ ฮึ $19",
     "ChenXiaoMing.Engagement.2": "รออีกแค่สองวันมันยากหรอ? มีอะไรที่ต้องกังวลนักหนาล่ะ? $2#$b#รีบร้อนไปก็ช่วยอะไรไม่ได้หรอกนะ $17",
-
     "LiQingFeng.MarriageDialogue.OneKid.0": "ลูกของเราน่ารักมากเลยนะ เหมือนกับเธอไม่มีผิด $17#$e#เค้าไม่อยากเชื่อเลยว่า พวกเราจะกลายเป็นพ่อแม่ไปแล้วน่ะ ยังรู้สึกเหมือนกับว่าเค้าเพิ่งจะเจอเธอเมื่อวานนี้เองอยู่เลย $1",
     "LiQingFeng.MarriageDialogue.OneKid.1": "ตัวเค้าโตมาโดยไม่มีแม่น่ะ อีกอย่าง เค้าก็ไม่เคยคิดมากเกี่ยวเรื่องนั้นด้วย $2#$e#แต่ว่าหลังจากที่เค้าได้เจอเธอแล้ว เค้าก็พอจะเข้าใจได้แล้วล่ะว่า การเป็นแม่นั้น มันหมายความว่ายังไงน่ะ $3#$e#อ๊ะ เดี๋ยว ไม่ใช่สิ เค้าหมายถึงหลังจากที่ลูก %kid1 เกิดมาแล้วน่ะ! $7",
     "LiQingFeng.MarriageDialogue.OneKid.2": "วันนี้เธอได้ไปเล่นกับลูก %kid1 บ้างหรือยังน่ะ? #$b#ถ้าปล่อยให้เค้าอยู่กับลูกคนเดียวบ่อยๆ เดี๋ยวลูกอาจจะจำหน้าเธอไม่ได้เอานะ! $7",
@@ -2500,7 +2505,7 @@
 
 
     
-    "spring.0.ChenXiaoMing.Movies.BeforeMovie": "ห๊ะ? คุณลากฉันมาถึงที่นี่เลยหรอ? เพื่อพามาดูหนังแบบนี้เนี่ยนะ? $26#$b#ฉันกำลังคิดอยู่เลยว่า จะกลับตัวแล้วก็หนีกลับไปเลยน่ะ $27",
+    "spring.0.ChenXiaoMing.Movies.BeforeMovie": "ห๊ะ? คุณลากฉันมาถึงนี่? เพื่อพามาดูหนังแบบนี้เนี่ยนะ? $26#$b#ฉันกำลังคิดอยู่เลยว่า จะกลับตัวแล้วก็หนีกลับบ้านไปเลยน่ะ $27",
     "spring.0.ChenXiaoMing.Movies.DuringMovie": "ไม่ ฉันไม่ชอบเรื่องนี้เลย $3",
     "spring.0.ChenXiaoMing.Movies.AfterMovie": "ก็เป็นหนังที่ดีนะ $27#$b#แต่ครั้งหน้า อย่าชวนฉันมาดูอะไรแบบนี้อีกล่ะ $26",
     "spring.1.ChenXiaoMing.Movies.BeforeMovie": "ฉันไม่รู้เลยนะว่า เฟิร์นกิลล์ จะมีหลายที่ขนาดนี้น่ะ $19#$b#ฮิๆ หนังก็น่าสนใจอยู่นะ $25",
