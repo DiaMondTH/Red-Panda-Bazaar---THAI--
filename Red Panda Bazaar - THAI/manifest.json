@@ -1,10 +1,10 @@
 {
     "Name": "Red Panda Bazaar - THAI",
-    "Author": "DiaMondCH",
+    "Author": "DiaMondDotTV",
     "Version": "1.0.0",
     "Description": "Thai language for Red Panda Bazaar 1.0.7",
     "MinimumApiVersion": "4.3.2",
-    "UniqueID": "DiaMondCH.RedPandaBazaarTHAI",
+    "UniqueID": "DiaMondDotTV.RedPandaBazaarTHAI",
     "UpdateKeys": [ "Nexus:37816" ],
     "ContentPackFor": {
         "UniqueID": "Lilaoliu.RedPandaBazaar",
