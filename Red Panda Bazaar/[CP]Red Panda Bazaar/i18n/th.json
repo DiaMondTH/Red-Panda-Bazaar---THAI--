@@ -1116,15 +1116,13 @@
     "LiQingFeng.summer.Fri.4h": "วันนี้ก็เป็นวันศุกร์แล้ว คุณจะไปที่ซาลูนเพื่อร่วมงานสังสรรค์ไหมน่ะ? #$b#หืม ทำไมเราถึงไม่ไปซาลูนน่ะหรอ? ก็เพราะว่าเราไม่ชอบดื่มเหล้าไง อีกอย่าง ในซาลูนก็ไม่มีชานมไข่มุกขายอีกด้วย $2",
     "LiQingFeng.summer.Sat.4h": "วันนี้คุณเป็นยังไงบ้าง? ที่ฟาร์มของคุณยุ่งอยู่หรือเปล่าน่ะ? $1#$e#อย่าหักโหมเกินไปในสภาพอากาศร้อนแบบนี้ล่ะ",
     "LiQingFeng.summer.Sun.4h": "ฤดูร้อนนี่น่ารำคาญจริงๆ! $2#$b#อย่างกับว่าทุกอย่างกำลังจะละลายไปหมด เราไม่อยากจะนึกถึงผู้คนในสมัยก่อนเลย ว่าเค้าอยู้กันได้ยังไงโดยที่ไม่มีแอร์กันนะ $3",
-
-
-    "LiQingFeng.summer.Mon.6h": "Oh, it's you! How's your day going? #$e#My face is red? It's probably just from the sun. $4",
-    "LiQingFeng.summer.Tue.6h": "Hey, how's everything? Tuesday already? #$b#Looks like Pierre's shop is closed tomorrow. $1#$e#Not that it matters, I usually get what I need online anyway.",
-    "LiQingFeng.summer.Wed.6h": "Anything to tell me? Of course, I want to hear! #$e#How's the farm? You must have it full of summer crops by now. $1#$e#That's it? Alright, see you later! $1",
-    "LiQingFeng.summer.Thu.6h": "You always seem to have time to visit. $1#$e#I'm starting to miss my father. He used to take me on trips this time of year. $2",
-    "LiQingFeng.summer.Fri.6h": "Friday already, so exciting! $1#$b#Wait, did I say this last time? I can't remember. Haha! $7#$e#Oh, okay, I guess I did. $3",
-    "LiQingFeng.summer.Sat.6h": "How's your Saturday? #$b#Me? I've been kind of lazy this summer. $1#$e#See you tomorrow? Sure, why not. $3",
-    "LiQingFeng.summer.Sun.6h": "How am I today? Pretty cute, don't you think? $7#$e#How was your week? Is the farm doing okay?",
+    "LiQingFeng.summer.Mon.6h": "อ้าว คุณนี่เอง! วันนี้เป็นยังไงบ้าง? #$e#หืม? หน้าเราแดงหรอ? น่าจะเป็นเพราะว่าแดดนั่นแหละ ไม่ใช่อะไรหรอก $4",
+    "LiQingFeng.summer.Tue.6h": "ไง คุณเป็นไงบ้าง? วันนี้วันอังคารแล้วสินะ? #$b#ดูเหมือนว่าพรุ่งนี้ร้านปิแอร์จะปิดนะ $1#$e#แต่ก็ไม่เป็นไรหรอก เพราะปกติเราก็สั่งของทางออนไลน์อยู่แล้วน่ะ",
+    "LiQingFeng.summer.Wed.6h": "มีเรื่องสนุกอะไรเล่าให้เราฟังบ้างหรือเปล่า? แน่นอนว่าเราอยากฟังนะ #$e#ที่ฟาร์มของคุณเป็นยังไงบ้างหรอ? ช่วงนี้คงเต็มไปด้วยพืชฤดูร้อนแล้วสินะ $1#$e#มีแค่นี้หรอ? เอาล่ะ งั้นก็ไว้เจอกันใหม่นะ! $1",
+    "LiQingFeng.summer.Thu.6h": "คุณดูจะมีเวลามาเยี่ยมเราอยู่เสมอเลยนะ $1#$e#เราเริ่มจะคิดถึงพ่อเราแล้วสิ ถ้าเป็นช่วงนี้เค้ามักจะพาเราไปเที่ยวอยู่บ่อยๆ แล้วน่ะ $2",
+    "LiQingFeng.summer.Fri.6h": "เย้! วันศุกร์แล้ว! รู้สึกว่ามีชีวิตชีวามากเลย! $1#$b#หืม? ครั้งก่อนเราก็พูดแบบนี้หรอ? จำไม่เห็นได้เลย เฮะๆ $7#$e#อืม... โอเค เราคงเคยพูดแบบนั้นไปแล้วจริงๆ สินะ $3",
+    "LiQingFeng.summer.Sat.6h": "เสาร์นี้คุณเป็นไงบ้าง? #$b#เราหรอ? ช่วงหน้าร้อนนี้เราก็จะเอื่อยเฉื่อยไปหน่อยน่ะ $1#$e#เจอกันใหม่พรุ่งนี้หรอ? โอ้ว... โอเค $3",
+    "LiQingFeng.summer.Sun.6h": "วันนี้เราดูเป็นไง? น่ารักมั้ย? $7#$e#สัปดาห์นี้คุณเป็นไงบ้างน่ะ? ที่ฟาร์มไปได้ดีอยู่หรือเปล่า?",
 
 
     "LiQingFeng.summer.Mon.8h": "Monday already? I think I stayed up too late again last night. $2#$b#But as soon as you show up, I feel energized. Hehe, how's your day? $1",
@@ -1164,10 +1162,10 @@
     "LiQingFeng.fall.Fri.4h": "วันนี้ต้องเป็นวันศุกร์แน่ๆ เราจำไม่ผิดหรอกนะ! #$b#คุณหลอกเราไม่ไห้หรอก เพราะเราดูปฏิทินมาแล้วน่ะ! ฮ่าๆ $7#$e#ช่วงนี้ฟาร์มของคุณเป็นยังไงบ้าง? ฤดูใบไม้ร่วงปีนี้ทุกอย่างก็คงไปได้ดีใช่มั้ย?",
     "LiQingFeng.fall.Sat.4h": "คุณตกปลาเป็นด้วยหรอ? น่าสนใจจริงๆ #$b#อ๊ะ ไม่ๆ อย่าเอาปลามาให้เรานะ เราทำอาหารที่เกี่ยวกับปลาไม่เป็นน่ะ และก็ไม่ชอบกินมันด้วย $3#$e#ห๊ะ? กินปลา ไม่ใช่กินขนแดง? คุณไปได้ยินคำนี้มาจากไหนน่ะ?",
     "LiQingFeng.fall.Sun.4h": "คุยเล่นกันหน่อยมั้ยอย่างงั้นหรอ? ได้สิ เราไม่ว่าอะไรคุณอยู่แล้ว #$e#เมืองซูซูนี่ก็น่าสนใจดีนะ แต่ว่าถ้ามันมีคนอยู่เยอะเกินไป เราก็หมดอารมณ์เหมือนกัน $2",
+    "LiQingFeng.fall.Mon.6h": "วันนี้คุณเป็นไงบ้าง? วันจันทร์นี้คงยุ่งมากเลยใช่มั้ย? #$b#เราไม่เคยทำงานที่เกี่ยวกับฟาร์มมาก่อนเลย บางทีคุณอาจจะสอนเราได้นะ $7#$e#เรากำลังคิดอยู่ว่าจะลองปลูกต้นไม้ดูบ้างน่ะ $1",
+    "LiQingFeng.fall.Tue.6h": "โอ้ว คุณมาที่นี่อีกแล้ว เร็ว มานี่สิ #$b#วันนี้เราดูแต่งตัวเป็นไงบ้าง? มีความมีกลิ่นอายของฤดูใบไม้ร่วงบ้างหรือเปล่า? $7#$e#เรื่องนี้เราไม่ได้เรียนรู้มาจากพ่อของเราหรอกนะ อีกอย่าง เค้าก็ไม่ค่อยถนัดเรื่องการแต่งตัวเลยด้วย $3",
 
-    
-    "LiQingFeng.fall.Mon.6h": "How's your day going? Mondays must be super busy for you, huh? #$b#I've never really worked on a farm, but maybe you could teach me sometime? $7#$e#I'm thinking about getting some plants. $1",
-    "LiQingFeng.fall.Tue.6h": "Oh, you're here again! Hurry up, come closer. #$b#How do I look today? Do I have that fall vibe going? $7#$e#I definitely didn't learn this from my father though, he's not exactly the best at styling. $3",
+
     "LiQingFeng.fall.Wed.6h": "It's Wednesday already? I don't really have anything planned. $e#Sounds like you're pretty busy. Have you had a break since moving from Zuzu City? $3#$e#Well, even when you're busy, it's good to take a moment and enjoy the view. $7",
     "LiQingFeng.fall.Thu.6h": "Pelican Town isn't that exciting, it's pretty much the same old thing. $2#$b#I don't know what Lewis is up to, but he's not really making this place any more fun. $8",
     "LiQingFeng.fall.Fri.6h": "It's Friday! I'm sure it's Friday! You can't trick me. $7#$e#Do you watch the TV? I mostly watch that chef hat guy's show. $e#Oh, and yes, I do everything 100%, haha, just kidding. $1",
