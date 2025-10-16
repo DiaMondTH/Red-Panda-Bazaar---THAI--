@@ -1097,7 +1097,7 @@
 
     "LiQingFeng.summer.Mon.0h": "โอ้! เฮ้ สวัสดีงั้นหรอ? $8#$b#อืม... ใช่แล้วล่ะ $2#$e#ขอโทษทีนะ เราแค่รู้สึกง่วงนิดหน่อยน่ะ $2",
     "LiQingFeng.summer.Tue.0h": "ว่าไง วันนี้คุณเป็นยังไงบ้าง? #$e#อากาศร้อนมากเลย จนทำให้เราลืมเรื่องเหนื่อยไปเลยล่ะ $3#$e#อื้ม ไว้เจอกันใหม่นะ บ๊ายบาย!",
-    "LiQingFeng.summer.Wed.0h": "วันนี้ร้อนสุดๆ ไปเลยนะ #$b#คุณยังทำงานในฟาร์มท่ามกลางอากาศที่ร้อนขนาดนี้อยู่อีกหรอ? คุณนี่ขยันจัง $3",
+    "LiQingFeng.summer.Wed.0h": "วันนี้ร้อนสุดๆ ไปเลยนะ #$b#คุณยังทำงานในฟาร์ม ท่ามกลางอากาศที่ร้อนขนาดนี้อยู่อีกหรอ? คุณนี่ขยันจัง $3",
     "LiQingFeng.summer.Thu.0h": "วันนี้คุณเป็นยังไงบ้าง? #$e#ฟังดูน่าสนุกดีจัง! เราอยากฟังเรื่องนี้เพิ่มอีกอ่ะ $1",
     "LiQingFeng.summer.Fri.0h": "โอ้ คุณนี่เอง! ต้องการอะไรหรือเปล่าล่ะ? #$e#คุณแค่มาทักทายกันหรอ? อื้ม ยินดีต้อนรับเสมอจ้ะ $1",
     "LiQingFeng.summer.Sat.0h": "วันเสาร์อีกแล้ว ฟาร์มของคุณสัปดาห์นี้เป็นยังไงบ้างหรอ? #$e#อย่าหักโหมเกินไปในสภาพอากาศที่เป็นแบบนี้ล่ะ เดี๋ยวจะเป็นลมแดดไปซะก่อน! งั้นก็ดูแลตัวเองด้วยนะ เข้าใจมั้ย? $7",
@@ -1164,13 +1164,11 @@
     "LiQingFeng.fall.Sun.4h": "คุยเล่นกันหน่อยมั้ยอย่างงั้นหรอ? ได้สิ เราไม่ว่าอะไรคุณอยู่แล้ว #$e#เมืองซูซูนี่ก็น่าสนใจดีนะ แต่ว่าถ้ามันมีคนอยู่เยอะเกินไป เราก็หมดอารมณ์เหมือนกัน $2",
     "LiQingFeng.fall.Mon.6h": "วันนี้คุณเป็นไงบ้าง? วันจันทร์นี้คงยุ่งมากเลยใช่มั้ย? #$b#เราไม่เคยทำงานที่เกี่ยวกับฟาร์มมาก่อนเลย บางทีคุณอาจจะสอนเราได้นะ $7#$e#เรากำลังคิดอยู่ว่าจะลองปลูกต้นไม้ดูบ้างน่ะ $1",
     "LiQingFeng.fall.Tue.6h": "โอ้ว คุณมาที่นี่อีกแล้ว เร็ว มานี่สิ #$b#วันนี้เราดูแต่งตัวเป็นไงบ้าง? มีความมีกลิ่นอายของฤดูใบไม้ร่วงบ้างหรือเปล่า? $7#$e#เรื่องนี้เราไม่ได้เรียนรู้มาจากพ่อของเราหรอกนะ อีกอย่าง เค้าก็ไม่ค่อยถนัดเรื่องการแต่งตัวเลยด้วย $3",
-
-
-    "LiQingFeng.fall.Wed.6h": "It's Wednesday already? I don't really have anything planned. $e#Sounds like you're pretty busy. Have you had a break since moving from Zuzu City? $3#$e#Well, even when you're busy, it's good to take a moment and enjoy the view. $7",
-    "LiQingFeng.fall.Thu.6h": "Pelican Town isn't that exciting, it's pretty much the same old thing. $2#$b#I don't know what Lewis is up to, but he's not really making this place any more fun. $8",
-    "LiQingFeng.fall.Fri.6h": "It's Friday! I'm sure it's Friday! You can't trick me. $7#$e#Do you watch the TV? I mostly watch that chef hat guy's show. $e#Oh, and yes, I do everything 100%, haha, just kidding. $1",
-    "LiQingFeng.fall.Sat.6h": "How's your day going? $e#With all those animals, your farm must be super busy! I love little bunnies! $1#$e#Winter's almost here, have you made sure they're all warm enough? $3",
-    "LiQingFeng.fall.Sun.6h": "How's today? I feel super energetic, like I could watch a bunch of movies! $1#$e#Of course, I'm not as tired now that I've met you. $e#I used to nap a lot, but now I just sleep when I feel like it. $17",
+    "LiQingFeng.fall.Wed.6h": "วันนี้วันพุธแล้วหรอ? เราไม่แผนว่าจะทำอะไรเป็นพิเศษเลย #$e#ดูเหมือนคุณจะยุ่งมากเลยนะ หลังจากที่ย้ายมาจากตัวเมืองซูซูนี่ คุณได้พักบ้างหรือเปล่าน่ะ? $3#$e#เอาล่ะ ถึงจะยุ่งมากแค่ไหน ก็ควรพักชมวิวบ้างก็ดีนะ $7",
+    "LiQingFeng.fall.Thu.6h": "ที่เมืองเพลิแกนนี่ ไม่ค่อยมีอะไรที่ตื่นเต้นซะเท่าไหร่เลย แทบจะเหมือนเดิมทุกปี $2#$b#เราไม่รู้หรอกนะว่าลุงเลวิสเค้ากำลังทำอะไรอยู่น่ะ แต่คือแบบว่าเมืองมันดูไม่ค่อยมีอะไรที่สนุกขึ้นมาเลย $8",
+    "LiQingFeng.fall.Fri.6h": "วันนี้วันศุกร์นะ! เรามั่นใจเลยว่าวันนี้วันศุกร์! คุณหลอกเราไม่ได้หรอก $7#$e#คุณได้ดูทีวีบ้างหรือเปล่า? เรานี่ดูแต่รายการเจ๊ที่ใส่หมวกเซฟเท่านั้นเองแหละ #$e#แน่นอนสิ ว่าเรานั้นทำได้เต็มร้อยเลยล่ะ ฮ่าๆ ล้อเล่นน่ะ $1",
+    "LiQingFeng.fall.Sat.6h": "ไง วันนี้คุณเป็นไงบ้าง? #$e#ถ้าเป็นอย่างที่คุณว่ามาจริงล่ะก็ ตอนนี้นี่ฟาร์มของคุณ คงเต็มไปด้วยน้องสัตว์เยอะมากเลยใช่มั้ย? เรานี่ชอบน้องกระต่ายมากที่สุดเลยล่ะ! $1#$e#หน้าหนาวก็ใกล้เข้ามาแล้วด้วย คุณแน่ใจนะว่าน้องๆ จะได้รับความอบอุ่นพอทุกตัวน่ะ? $3",
+    "LiQingFeng.fall.Sun.6h": "วันนี้คุณเป็นยังไงบ้าง? ส่วนเราในวันนี้รู้สึกกระปรี้กระเปล่ามาก เหมือนจะดูหนังจบได้เป็นสิบเรื่องเลยแน่ะ! $1#$e#แน่นอนว่า หลังจากที่เราได้รู้จักคุณแล้ว เราก็ไม่ค่อยรู้สึกง่วงเท่าเมื่อก่อนแล้วล่ะ #$e#จริงๆ เมื่อก่อนเราเป็นคนที่ชอบงีบหลับนะ แต่ว่าตอนนี้นี่คือจะนอนก็ต่อเมื่ออยากนอนเท่านั้นแหละ $17",
 
 
     "LiQingFeng.fall.Mon.8h": "Hey, you're here again! How's your day? Did you bring something cool to show me?#$e#If I had my own farm, I'd totally plant a giant field of fairy roses in the fall. $1#$b#And I'd use all the milk to make milk tea. I mean, who doesn't love milk tea?",
@@ -1210,10 +1208,10 @@
     "LiQingFeng.winter.Fri.4h": "หนาวหรือเปล่า? ดูเหมือนคุณจะมุดเข้าไปอยู่ในเสื้อผ้าทั้งตัวแล้วนะ $3#$e#แล้ว... วันนี้คุณจะไปซาลูนหรือเปล่า? $17#$b#เราหรอ? จริงๆ เราก็ไม่ค่อยชอบไปที่นั่นหรอก แต่ถ้าไปแค่เพื่อให้ร่างกายอบอุ่นก็ไม่แย่นะ $18",
     "LiQingFeng.winter.Sat.4h": "หืม? โอ้ สวัสดีจ้า! #$b#วันนี้... มีธุระอะไรหรอ? หรือว่ามาหาเราเล่นเฉยๆ น่ะ? $17#$e#เอาล่ะ งั้นก็ไว้เจอกันใหม่พรุ่งนี้นะ? @? $7",
     "LiQingFeng.winter.Sun.4h": "หืม? มาทักทายกันหน่อยหรอ? ได้สิ ว่าไง! วันหยุดสุดสัปดาห์นี้คุณยุ่งหรือเปล่า? #$b#มีงานอะไรที่คุณต้องทำที่ฟาร์มบ้างมั้ย? หรือว่าอยู่บ้านเฉยๆ เหมือนกับเราน่ะ? $17",
+    "LiQingFeng.winter.Mon.6h": "อืม... $3#$b#โอ้ ขอโทษที เรากำลังนึกถึงฉากในหนังเรื่องนึกอยู่น่ะ #$b#คุณมีฉากในหนังเรื่องไหนที่ชอบบ้างหรือเปล่า? $1",
+    "LiQingFeng.winter.Tue.6h": "เราว่า ไม่มีฤดูไหน ที่เหมาะกับการนอนไปมากกว่าฤดูหนาวแล้วล่ะ $2#$b#คุณก็เห็นด้วยใช่มั้ย? แบบว่า... กลางวันยาวกลางคืนสั้น เอ๊ะ? หรือว่ากลางวันสั้นกลางคืนยาวหรือเปล่า? $4",
 
 
-    "LiQingFeng.winter.Mon.6h": "Hmm... $3#$b#Oh, I was just thinking about a scene from a movie. #$b#Do you have a favorite movie scene? $1",
-    "LiQingFeng.winter.Tue.6h": "Isn't winter just the perfect season for sleeping? $2#$b#You agree, right? Long nights and short days... or was it the other way around? $4",
     "LiQingFeng.winter.Wed.6h": "Ever thought about going camping? I feel like I need to explore nature a bit, @. #$b#Wait, it's winter now? $1#$b#I guess I'm still sleepy. $2",
     "LiQingFeng.winter.Thu.6h": "Do people usually go out much in winter? $3#$b#I wouldn't know, I barely leave the house myself!",
     "LiQingFeng.winter.Fri.6h": "Friday, Friday! Feeling full of energy! $1#$b#Wanna have a snowball fight? $7#$b#Just kidding. I'm not actually that good at it. $1",
@@ -1492,7 +1490,7 @@
     "ChenXiaoMing.Sun.6h": "นี่มันวันหยุดสุดสัปดาห์แล้วหรอ? ฉันยังไม่ทันได้สังเกตเห็นเลย $26#$e#แต่ก็คงใช่นะ สำหรับฉันแล้วทุกวันนี้ มันก็รู้สึกเหมือนๆ กันหมดแหละ $27",
     "ChenXiaoMing.Mon.8h": "โอ้ นี่มันวันจันทร์แล้วหรอ $27#$b#ไม่เป็นไรหรอก อย่าไปกังวลมันเลย $26",  
     "ChenXiaoMing.Tue.8h": "เรามาคุยกันหน่อยไหม? #$e#บางที ฉันก็ไม่ควรพูดแบบนั้นออกมานะ $26",  
-    "ChenXiaoMing.Wed.8h": "ฉันก็นึกอยู่เหมือนกันว่า... บางทีฉันก็อาจลองวาดรูปดูบ้างน่ะ $19#$e#ฉันเคยลองวาดรูปน้องแมวอยู่ครั้งหนึ่ง $16#$b#แต่สุดท้ายแล้ว มันออกมาแย่มากๆ ถึงคั่นที่ฉันขำไม่หยุดเลย $26",  
+    "ChenXiaoMing.Wed.8h": "ฉันก็คิดอยู่เหมือนกันนะว่า บางที... ฉันก็อยากจะลองวาดรูปดูบ้างน่ะ $19#$e#ฉันเคยลองวาดรูปน้องแมวดูแล้วครั้งนึง $16#$b#แต่สุดท้ายแล้วมันก็ออกมาดูแย่เอามากๆ จนฉันขำกับตัวเองไม่หยุดเลยน่ะ $26",  
     "ChenXiaoMing.Thu.8h": "คุณเคยลองทำอะไรที่ต่างออกไปบ้างไหม เวลาที่ไม่ได้ยุ่งน่ะ? #$e#ไม่หรอ? $7",  
     "ChenXiaoMing.Fri.8h": "คืนนี้ฉันรู้สึกอยากกินอะไรดีๆ บ้างเป็นมื้อเย็นน่ะ $3#$b#ฉันเบื่อที่ต้องกินบะหมี่กึ่งสำเร็จรูปสุดๆ เลย $3",  
     "ChenXiaoMing.Sat.8h": "ฉันก็นึกอยากโทรไปหาที่บ้านอยู่เหมือนกันนะ $3#$b#แต่ทุกครั้งที่คิดจะโทร ฉันก็มักจะเปลี่ยนใจอยู่ตลอดเลย $7",  
