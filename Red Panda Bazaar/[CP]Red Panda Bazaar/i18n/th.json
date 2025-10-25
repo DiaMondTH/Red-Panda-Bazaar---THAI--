@@ -1012,7 +1012,7 @@
     "LiQingFeng.RSV.fall20.2.festivals.Spouse": "เป็นอะไรไปหรอ? ที่รัก #$e#อยากจะลองเมนูซิกเนเจอร์ของปิก้าดูมั้ย? รู้สึกว่ามันน่าจะพอสู้กับอาหารที่เค้าทำให้เธอกินได้อยู่นะ $17#$b#ห๊ะ? ถ้ายังพูดแบบนี้อีก เค้าจะไม่ทำอาหารให้เธอกินอีกแล้วนะ $18",
     "LiQingFeng.RSV.winter28.festivals.Spouse": "วันนี้ก็เป็นวันสุดท้ายของปีแล้ว มีแผนว่าจะทำอะไรต่อมั้ย? ที่รัก $7#$b#เค้าหรอ? เค้าอยากให้เรายังอยู่ด้วยกันอีกในปีหน้าน่ะ $e#ปีต่อๆ ไป และก็อยู่ด้วยกันทุกปีตลอดไปเลย $1",
     "LiQingFeng.RSV.winter28.2.festivals.Spouse": "อยากกินอันนี้มั้ย? ที่รัก $17#$b#ไม่หรอ? งั้นเค้ากินเองก็แล้วกัน! $12#$b#ฮึ ชู่ๆ เค้าทนรอเวลานี้มาไม่ไหวแล้วล่ะ $11",
-    "DumpsterDiveComment": "%ทำไมคุณถึงชอบไปคุ้ยขยะจัง?",
+    "DumpsterDiveComment": "%ทำไมคุณถึงชอบคุ้ยขยะจัง?",
     "HitBySlingshot": "%อย่าทำแบบนั้นนะ!",
     "LiQingFeng.Introduction": "โอ้ สวัสดี เราชื่อชิงเฟิงนะ! คุณคือชาวไร่คนใหม่ใช่หรือเปล่า? $1#$b#เราอาศัยอยู่ที่นี่เพียงคนเดียว ส่วนบ้านของเราก็อยู่ทางทิศตะวันออกเฉียงเหนือ ของเมืองนี้นะ ซึ่งมันก็อาจจะไกลไปจากฟาร์มของคุณอยู่ดี #$e#งั้นก็แค่นี้ก่อนนะ บ๊ายบาย \nถ้ามีเวลาก็แวะมาหาเราเล่นๆ ก็ได้นะ",
     "LiQingFeng.danceRejection": "หืม? เต้นรำกันงั้นหรอ? เราขอไม่เต้นจะดีกว่านะ $3",
@@ -1169,15 +1169,13 @@
     "LiQingFeng.fall.Fri.6h": "วันนี้วันศุกร์นะ! เรามั่นใจเลยว่าวันนี้วันศุกร์! คุณหลอกเราไม่ได้หรอก $7#$e#คุณได้ดูทีวีบ้างหรือเปล่า? เรานี่ดูแต่รายการเจ๊ที่ใส่หมวกเซฟเท่านั้นเองแหละ #$e#แน่นอนสิ ว่าเรานั้นทำได้เต็มร้อยเลยล่ะ ฮ่าๆ ล้อเล่นน่ะ $1",
     "LiQingFeng.fall.Sat.6h": "ไง วันนี้คุณเป็นไงบ้าง? #$e#ถ้าเป็นอย่างที่คุณว่ามาจริงล่ะก็ ตอนนี้นี่ฟาร์มของคุณ คงเต็มไปด้วยน้องสัตว์เยอะมากเลยใช่มั้ย? เรานี่ชอบน้องกระต่ายมากที่สุดเลยล่ะ! $1#$e#หน้าหนาวก็ใกล้เข้ามาแล้วด้วย คุณแน่ใจนะว่าน้องๆ จะได้รับความอบอุ่นพอทุกตัวน่ะ? $3",
     "LiQingFeng.fall.Sun.6h": "วันนี้คุณเป็นยังไงบ้าง? ส่วนเราในวันนี้รู้สึกกระปรี้กระเปล่ามาก เหมือนจะดูหนังจบได้เป็นสิบเรื่องเลยแน่ะ! $1#$e#แน่นอนว่า หลังจากที่เราได้รู้จักคุณแล้ว เราก็ไม่ค่อยรู้สึกง่วงเท่าเมื่อก่อนแล้วล่ะ #$e#จริงๆ เมื่อก่อนเราเป็นคนที่ชอบงีบหลับนะ แต่ว่าตอนนี้นี่คือจะนอนก็ต่อเมื่ออยากนอนเท่านั้นแหละ $17",
-
-
-    "LiQingFeng.fall.Mon.8h": "Hey, you're here again! How's your day? Did you bring something cool to show me?#$e#If I had my own farm, I'd totally plant a giant field of fairy roses in the fall. $1#$b#And I'd use all the milk to make milk tea. I mean, who doesn't love milk tea?",
-    "LiQingFeng.fall.Tue.8h": "Books? No, I'm not much of a reader. Not every girl's into that, you know. $8#$e#But music? Oh, I'm all about it. Rock music? Absolutely, punk rock all the way! $7#$e#You said there's a three-person band in town that's pretty good? Maybe we can go see them together sometime.",
-    "LiQingFeng.fall.Wed.8h": "Fall is so pretty, isn't it? Everything's just so colorful. $1#$b#But it's getting chilly, so don't go catching a cold, okay? $7#$e#I don't get sick that much, but I bet the town doctor's making a fortune this time of year. $3#$e#I mean, paying for medicine is just how it goes, right?",
-    "LiQingFeng.fall.Thu.8h": "Thursday, huh? Alright, I'll trust you on this one.#$e#What, you caught me? Guess there's no escaping now! $17#$e#How was my impression? It's a line from this comedy I like.",
-    "LiQingFeng.fall.Fri.8h": "I don't drink, so you won't catch me at the saloon. $3#$b#Yeah, my family's not really into drinking either. You shouldn't drink too much, okay? $3#$e#I had a relative who drank too much... it didn't end well. $2",
-    "LiQingFeng.fall.Sat.8h": "Saturday? Wait, I thought it was Friday. $1#$e#Oh, never mind. How's your day going so far?#$b#Alright then, see you tomorrow. I always look forward to hanging out with you. $7",
-    "LiQingFeng.fall.Sun.8h": "Do you know the secret to making amazing milk tea?#$e#Do you have a kitchen at home? You've gotta know how to cook at least a little, right? $7#$e#Alright, that's it for this week. Let's catch up next week, okay?",
+    "LiQingFeng.fall.Mon.8h": "อ้าว คุณโผล่มาที่นี่อีกแล้ว วันนี้เป็นยังไงบ้าง? ได้เอาอะไรเจ๋งๆ มาอวดเราบ้างหรือเปล่า? #$e#ถ้าเรามีฟาร์มเป็นของตัวเองนะ ในฤดูใบไม้ร่วงแบบนี้ เราจะปลูกแต่ดอกกุหลาบนางฟ้าให้เต็มทุ่งไปเลยล่ะ $1#$b#ถ้าเลี้ยงวัวด้วย เราก็จะเอานมที่ได้มาทั้งหมด ไปทำเป็นชานมไข่มุกให้หมดเลย ใครกันล่ะที่จะไม่ชอบชานมน่ะ",
+    "LiQingFeng.fall.Tue.8h": "หืม? ชอบหนังสือมั้ยอย่างงั้นหรอ? ไม่อ่ะ เราไม่ค่อยชอบอ่านหนังสือซะเท่าไหร่ ไม่ใช่ว่าผู้หญิงทุกคนจะชอบอ่านหนังสือหรอกนะ $8#$e#ถ้าเป็นเรื่องดนตรีนี่เราชอบนะ ยิ่งเป็นแนวพังค์ร็อกด้วยก็ยิ่งชอบใหญ่เลยล่ะ! $7#$e#ถ้าเราจำไม่ผิด ที่เมืองเพลิแกนก็มีวงดนตรี ที่มีแค่สามคนที่เล่นดนตรีเก่งอยู่นะ ใช่มั้ย? ไว้เราไปดู้เค้าเล่นดนตรีด้วยกันสักครั้งดีมั้ย?",
+    "LiQingFeng.fall.Wed.8h": "ฤดูใบไม้ร่วงนี่สวยจริงๆ เลยนะ ว่ามั้ย? ทุกอย่างเต็มไปด้วยสีสันไปหมดเลย $1#$b#รู้สึกว่าก็เริ่มหนาวขึ้นแล้วด้วย ระวังอย่าให้ตัวเองเป็นหวัดล่ะ $7#$e#เราไม่ค่อยป่วยบ่อยหรอกนะ แต่เราเดาได้เลยว่า หมอประจำเมืองช่วงนี้คงทำเงินได้เยอะแน่ $3#$e#ก็... พวกค่ายงค่ายาพวกนี้ ก็เป็นเรื่องปกติที่ต้องใช้จ่ายอยู่แล้วใช่มั้ยล่า?",
+    "LiQingFeng.fall.Thu.8h": "หืม? วันนี้วันพฤหัสหรอ? อืม... คราวนี้เราชื่อคุณก็แล้วกัน #$e#ว่าไงนะ คุณหรอกเราสำเร็จแล้วอย่างงั้นหรอ แบบนี้เราก็หนีไปใหนไม่รอดแล้วล่ะสิ! $17#$e#เป็นไงล่ะ การแสดงของเราน่ะ คิดว่าโอเคมั้ย? นั่นเป็นบทพูดจากหนังตลกที่เราชอบเลยนะ",
+    "LiQingFeng.fall.Fri.8h": "ถ้าคุณมาตอนที่เรายังอยู่เมืองเพลิแกนนะ คุณจะรู้เลยว่าเราเป็นคนที่ไม่ชอบดื่มแอลกอฮอล์น่ะ และก็จะไม่เจอเราอยู่ที่ซาลูนด้วย $3#$b#อีกอย่าง รวมถึงครอบครัวเราก็ไม่ค่อยชอบดื่ม คุณเองก็อย่าดื่มแอลกอฮอล์เยอะเกินไปล่ะ $3#$e#เราเคยมีญาติคนหนึ่งที่ชอบดื่มหนักเอามากๆ จนเค้าเสียชีวิตเพราะแอลกอฮอล์นี่แหละ $2",
+    "LiQingFeng.fall.Sat.8h": "วันนี้วันเสาร์หรอ? เดี๋ยวนะ เราก็นึกว่าวันนี้เป็นวันศุกร์ซะอีก $1#$e#ช่างเถอะ วันนี้คุณเป็นไงบ้างน่ะ? #$b#อื้ม งั้นไว้เจอกันใหม่พรุ่งนี้นะ เราตั่งตารอใช้เวลากับคุณอยู่เสมอเลยล่ะ $7",
+    "LiQingFeng.fall.Sun.8h": "คุณรู้รึเปล่า? ว่าเคล็ดลับที่ทำให้ชานมอร่อยขึ้นนั้นคืออะไรน่ะ? #$e#ว่าแต่... ที่บ้านคุณมีห้องครัวหรือเปล่า? อย่างน้อยคุณก็คงทำอาหารเป็นอยู่บ้างแล้วใช่มั้ย? $7#$e#เอาล่ะ งั้นสัปดาห์นี้เราแค่นี้ก่อน ไว้คุยกันใหม่สัปดาห์หน้านะ บาย... ",
 
 
     "LiQingFeng.fall.Mon.10h": "Hey there! Are you cold?#$e#Want me to warm you up? Just kidding! Hehe. $12#$e#What? No, it's not what you're thinking. Really, it's not. $11",
