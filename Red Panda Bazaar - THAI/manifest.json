@@ -5,7 +5,7 @@
     "Description": "Thai language for Red Panda Bazaar 1.0.7",
     "MinimumApiVersion": "4.3.2",
     "UniqueID": "DiaMondDotTV.RedPandaBazaarTHAI",
-    "UpdateKeys": [ "Nexus:37816" ],
+    "UpdateKeys": [ "Nexus:38883" ],
     "ContentPackFor": {
         "UniqueID": "Lilaoliu.RedPandaBazaar",
         "MinimumApiVersion": "1.0.7"
