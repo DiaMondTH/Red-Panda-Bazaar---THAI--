@@ -1128,15 +1128,11 @@
     "LiQingFeng.summer.Sun.8h": "วันอาทิตย์แล้วสินะ แต่ก็ยังร้อนอยู่เหมือนเดิมเลย $2#$b#อากาศร้อนแบบนี้ ทำเราไม่อยากออกไปใหนเลย แค่ก้าวออกจากบ้านนิดเดียวเหงื่อก็ท่วมตัวไปหมดแล้วล่ะ $2#$e#จะว่าไปแล้ว อากาศร้อนแบบนี้... ทำให้คุณอาบน้ำบ่อยขึ้นบ้างหรือเปล่าน่ะ? $3",
     "LiQingFeng.summer.Mon.10h": "@! $7#$b#วันนี้เราดูแต่งตัวเป็นไงบ้าง? น่ารักขึ้นมั้ย? $1#$e#ฤดูร้อนที่มีคุณอยู่ด้วย แค่นี้เราก็มีความสุขมากแล้วล่ะ $12",
     "LiQingFeng.summer.Tue.10h": "คุณเคยไปทะเลทรายหรือเปล่า? เรานึกไม่ออกเลยว่าที่นั่นจะมีเรื่องอะไรสนุกๆ บ้างรึเปล่าน่ะ #$b#เราว่าถ้าเราไปเที่ยวกับคุณ คิดว่าต้องสนุกมากแน่ๆ ขอแค่เราได้อยู่ใกล้คุณ แค่นี้ก็ดีมากแล้วล่ะ $1#$e#เจอกันใหม่พรุ่งนี้หรอ? ทำไมต้องรอถึงกันพรุ่งนี้ด้วยล่ะ? $18",
-
-
-    "LiQingFeng.summer.Wed.10h": "Oh, you're here again? #$b#Of course, I'm happy to see you! Why wouldn't I be? $1#$e#You're my favorite person. Well, okay, maybe after my father! $4",
-    "LiQingFeng.summer.Thu.10h": "@! How's your day going so far? #$e#Do you have bunnies on your farm? Can I come over and pet them? Please? $3",
-    "LiQingFeng.summer.Fri.10h": "When I was a kid, I used to dream about being with someone I really loved. $1#$b#Is that silly? Or do you think it's kind of sweet? $7#$e#You're so fun to talk to. See you tomorrow, okay? $18",
-    "LiQingFeng.summer.Sat.10h": "I don't like you... just kidding! $18#$e#How could I not? You're my favorite person, silly! $1#$e#Well, after my father. But you're right up there! $1",
-    "LiQingFeng.summer.Sun.10h": "Got any plans? How about bubble tea with me? $12#$e#Do you have milk at your place? Maybe I could come over and make some for us! $11",
-
-
+    "LiQingFeng.summer.Wed.10h": "อ้าว คุณกลับมาที่นี่อีกแล้วหรอ? #$b#แน่นอนสิว่าเราดีใจมากที่คุณมา! จะไม่ให้ดีใจได้ยังไงกันล่ะ? $1#$e#เธอเป็นคนที่เรารักมากที่สุด รองจากคุณพ่อเราเลยนะ! $4",
+    "LiQingFeng.summer.Thu.10h": "@! วันนี้เป็นไงบ้าง? #$e#ที่ฟาร์มของคุณได้เลี้ยงน้องกระต่ายไว้บ้างหรือเปล่า? $18#$b#เราขอไปเล่นกับพวกน้องๆ หน่อยได้มั้ย? ต๊ะเอง",
+    "LiQingFeng.summer.Fri.10h": "ตอนเด็กๆ เราเคยฝันว่าอยากมีแฟนที่รักเราจริงๆ สักคน $1#$b#ฟังดูงี่เง่าดีใช่มั้ยล่ะ หรือว่าคุณมองว่ามันน่ารัก? $7#$e#อยู่คุยกับคุณนี่มันสนุกมากเลยจริงๆ งั้นก็ไว้เจอกันใหม่พรุ่งนี้นะ $18",
+    "LiQingFeng.summer.Sat.10h": "จริงๆ แล้ว... เราไม่ได้ชอบคุณ ไม่ได้พูดเล่นนะ $18#$e#อ๊ะๆ เค้าล้อเล่นน่า! จะเป็นไปได้ยังไงกันล่ะ ที่เราไม่ชอบคุณน่ะ คุณคือคนโปรดของเราในหน้าร้อนนี้เลยนะ! $1#$e#หืม? เรารักพ่อตัวเองมั้ยอย่างงั้นหรอ? แน่นอนสิว่าเราก็ต้องรักคุณพ่อของเรามากอยู่แล้ว รวมถึงคุณด้วยนะ $1",
+    "LiQingFeng.summer.Sun.10h": "สุดสัปดาห์นี้... ต๊ะเองมีแผนว่าจะทำอะไรรึเปล่า? มาดื่มชานมไข่มุกกับเรามั้ย? $12#$e#ในตู้เย็นบ้านคุณ... มีนมสดหรือเปล่าน่ะ? ให้เราแวะไปทำชานมที่บ้านคุณเอาดีมั้ย? $11",
     "LiQingFeng.fall.Mon.0h": "โอ้ว? สวัสดี~ $2#$b#ใช่ ตอนนี้เรายังรู้สึกง่วงนอนอยู่เลยน่ะ $8#$e#เอาล่ะ~ งั้นก็ดูแลตัวเองด้วยก็แล้วกันน้า~ $2",
     "LiQingFeng.fall.Tue.0h": "สวัสดี @ #$b#ฤดูใบไม้ร่วงไม่ใช่ว่าเป็นฤดูสำหรับเก็บเกี่ยวหรอ? แล้วตอนนี้คุณปลูกพืชอะไรไว้ที่ฟาร์มของคุณบ้างล่ะ #$e#เราหรอ? เราก็ไม่ได้ปลูกพืชอะไรเยอะมากหรอก จริงๆ นะ $7",
     "LiQingFeng.fall.Wed.0h": "วันนี้เป็นยังไงบ้าง? #$b#เผลอแป๊บเดียววันนี้ก็เป็นวันพุธอีกแล้วสินะ... แต่ละวันนี่ผ่านไปเร็วจริงๆ $3#$b#โอ้ว โอเค งั้นก็ไว้เจอกันใหม่นะ $18",
@@ -1172,11 +1168,11 @@
     "LiQingFeng.fall.Fri.8h": "ถ้าคุณมาตอนที่เรายังอยู่เมืองเพลิแกนนะ คุณจะรู้เลยว่าเราเป็นคนที่ไม่ชอบดื่มแอลกอฮอล์น่ะ และก็จะไม่เจอเราอยู่ที่ซาลูนด้วย $3#$b#อีกอย่าง รวมถึงครอบครัวเราก็ไม่ค่อยชอบดื่ม คุณเองก็อย่าดื่มแอลกอฮอล์เยอะเกินไปล่ะ $3#$e#เราเคยมีญาติคนหนึ่งที่ชอบดื่มหนักเอามากๆ จนเค้าเสียชีวิตเพราะแอลกอฮอล์นี่แหละ $2",
     "LiQingFeng.fall.Sat.8h": "วันนี้วันเสาร์หรอ? เดี๋ยวนะ เราก็นึกว่าวันนี้เป็นวันศุกร์ซะอีก $1#$e#ช่างเถอะ วันนี้คุณเป็นไงบ้างน่ะ? #$b#อื้ม งั้นไว้เจอกันใหม่พรุ่งนี้นะ เราตั่งตารอใช้เวลากับคุณอยู่เสมอเลยล่ะ $7",
     "LiQingFeng.fall.Sun.8h": "คุณรู้รึเปล่า? ว่าเคล็ดลับที่ทำให้ชานมอร่อยขึ้นนั้นคืออะไรน่ะ? #$e#ว่าแต่... ที่บ้านคุณมีห้องครัวหรือเปล่า? อย่างน้อยคุณก็คงทำอาหารเป็นอยู่บ้างแล้วใช่มั้ย? $7#$e#เอาล่ะ งั้นสัปดาห์นี้เราแค่นี้ก่อน ไว้คุยกันใหม่สัปดาห์หน้านะ บาย... ",
+    "LiQingFeng.fall.Mon.10h": "นี่ต๊ะเอง! หนาวมั้ย? #$e#อยากให้เรา... ช่วยทำให้คุณหายหนาวมั้ย? $12#$e#เอ่อ... ใช่ เอ้ยไม่ใช่! ไม่ใช่อย่างที่คุณคิดนะ $11",
+    "LiQingFeng.fall.Tue.10h": "อ้าว มาหากันอีกแล้วหรอ? คงจะติดชอบเรามากเลยสินะ เจ้าตัวเล็ก $3#$e#หืม? เรารำคาญที่คุณมาหาเราอยู่บ่อยๆ ไหมอย่างงั้นหรอ? ไม่เลย! ออกจะยินดีที่มาหากันด้วยซ้ำ #$b#อยากให้เราร้องเพลงให้คุณฟังมั้ย? ${คุณชาย^คุณหญิง}$! ซึน เด เระ @ $7",
+    "LiQingFeng.fall.Wed.10h": "ดูหนัง? ด้วยกันมั้ยอยางงั้นหรอ? ได้สิ #$e#ขอแค่ไม่ใช่หนังแนวสยองขวัญก็พอแล้วล่ะ แต่ว่าถ้าเป็นหนังแนวโรแมนติกนี่ก็ยิ่งดีเลย $7#$e#หืม? คิๆ $12",
 
 
-    "LiQingFeng.fall.Mon.10h": "Hey there! Are you cold?#$e#Want me to warm you up? Just kidding! Hehe. $12#$e#What? No, it's not what you're thinking. Really, it's not. $11",
-    "LiQingFeng.fall.Tue.10h": "You're here again! What, you can't get enough of me, huh? You little rascal. $3#$e#Me, upset? Of course not! You're always welcome.#$b#Want me to sing you a song? Hehe... I'm just joking! Unless you really want me to. $7",
-    "LiQingFeng.fall.Wed.10h": "A movie? With me? Of course, I'm in!#$e#As long as it's not a horror movie, I'm fine. But something romantic would be the best. $7#$e#What? Hehe. $12",
     "LiQingFeng.fall.Thu.10h": "You're here every single day, huh? Not that I mind! $7#$e#How was my day? Hmm, just the usual—milk tea, movies, milk tea, movies, and more milk tea. #$e#What? Stop teasing me! Hehe. $12",
     "LiQingFeng.fall.Fri.10h": "You... $12#$b#Oh, nothing. You just look kinda sweet today. $11#$e#What? No, I don't want to eat you or anything... maybe just a tiny lick. $12#$b#Like candy, of course! Hehe. $12",
     "LiQingFeng.fall.Sat.10h": "Saturday? It's Monday, isn't it? $17#$e#What? Oh, I'm just messing with you! That's what girlfriends do. $7#$e#You can try teasing me too, but don't expect me to fall for it! $12",
